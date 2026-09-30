@@ -1,0 +1,22 @@
+
+						@font-face {
+							font-family: 'poppins';
+							src: url('https://grupopalm.pe/biospheraperu/wp-content/bcf-fonts/Poppins/poppins-700-normal0.woff2') format('woff2');
+							font-weight: 700;
+							font-style: normal0;
+						}
+						
+						@font-face {
+							font-family: 'poppins';
+							src: url('https://grupopalm.pe/biospheraperu/wp-content/bcf-fonts/Poppins/poppins-700-normal1.woff2') format('woff2');
+							font-weight: 700;
+							font-style: normal1;
+						}
+						
+						@font-face {
+							font-family: 'poppins';
+							src: url('https://grupopalm.pe/biospheraperu/wp-content/bcf-fonts/Poppins/poppins-700-normal2.woff2') format('woff2');
+							font-weight: 700;
+							font-style: normal2;
+						}
+						
